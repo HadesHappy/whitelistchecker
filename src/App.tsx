@@ -61,7 +61,7 @@ function App() {
               <>
                 {
                   have ?
-                    <div className='text-gray-400'>You are not whitelisted!</div> : <div className='text-gray-400'>You are whitelisted!</div>
+                    <div className='text-gray-400'>You are whitelisted!</div> : <div className='text-gray-400'>You are not whitelisted!</div>
                 }
               </>
               :
